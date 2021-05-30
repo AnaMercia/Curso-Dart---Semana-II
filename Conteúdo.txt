@@ -1,0 +1,31 @@
+Estruturas de controle 
+ => If/Else
+    - If - "Se"
+    - Else - "Senão"
+    - Else if - "Senão se"
+    - Exercicio_1.dart
+ => For
+    - Geralmente utilizado para repetições com quantidade determinada
+    - Exercicio_2.dart
+ => For in
+    - Para percorrer listas, Maps, sem precisar inicializar variáveis para contagem
+    - Exercicio_3.dart (Lista)
+    - Exercicio_4.dart (Map)
+ => While
+    - Para repetições indeterminadas
+    - Pode executar de 0 a n vezes
+    - Exercicio_5.dart (Exemplos 1 e 2)
+ => Do While
+    - A expressão que controla o laço fica após o bloco
+    - O bloco obrigatoriamente deve ser executado ao menos uma vez
+    - Exercicio_5.dart (Exemplo 3)
+ => Switch
+    - A expressão associada à estrutura não é com valor bool (true/false)
+    - Recebe um valor que é usado como seleção multipla
+    - Obrigatório usar o break para parar a execução do case expecífico
+    - Lida com valores individuais e não lida com intervalos 
+        * No caso de intervalos o ideal é usar IF/ELSE
+    - Exercicio_6.dart
+ => Break e Continue
+    - Break -> Para a execução total
+    - Continue -> Para a execução de um passo e vai para o próximo
